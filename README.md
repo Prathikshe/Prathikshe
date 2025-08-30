@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Prathikshe
+# 👋 Hi there, I'm Prathik Shet
 
 🚀 **Backend & Full-Stack Developer** | API & Cloud Enthusiast | Automation Lover  
 
